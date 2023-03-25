@@ -21,7 +21,7 @@ So let’s start implementing the user management system with PHP and MySQL. Bef
  <li>Admin login.</li>
  <li>Admin password Chane password.</li>
  <li>Admin profile.</li>
- <li>Dashboard View</li>
+ <li>Home View</li>
  <li>Users list.</li>
  <li>Add new user with role.</li>
  <li>Edit & save user.</li>
